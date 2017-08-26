@@ -1,0 +1,19 @@
+{
+  "name": "rezults",
+  "version": "1.0.0",
+  "description": "send json response for express server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/e-e/rezults.git"
+  },
+  "author": "Eric Ellingson <ellingsonster@gmail.com> (http://eric.wtf/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/e-e/rezults/issues"
+  },
+  "homepage": "https://github.com/e-e/rezults#readme"
+}
